@@ -1,4 +1,5 @@
-import os.path, shutil
+import os.path
+import shutil
 from zipfile import ZipFile
 
 files1 = ["pdf1.pdf", "xlsx1.xlsx", "xlsx2.csv"]
